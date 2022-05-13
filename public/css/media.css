@@ -63,13 +63,7 @@
   }
 
   .butt {
-    padding: 10px;
-  }
-
-  .noir1 {
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    padding: 12px;
   }
 
   .taille1 {
@@ -78,6 +72,14 @@
 
   body {
     width: 100%;
+  }
+
+  .bgg {
+    padding: 50px;
+  }
+
+  .seccc {
+    gap: 3rem;
   }
 }
 
