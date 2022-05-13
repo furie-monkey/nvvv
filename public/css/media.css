@@ -1,0 +1,84 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .flexx {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .head {
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .non {
+    display: none;
+  }
+
+  .flexx {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wi {
+    width: 250px;
+  }
+
+  .head3 {
+    padding-top: 150px;
+  }
+
+  .wi1 {
+    width: 250px;
+  }
+
+  .flexx {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .b {
+    flex-direction: column;
+  }
+
+  .c {
+    flex-direction: column-reverse;
+  }
+
+  .d {
+    text-align: end;
+  }
+
+  .wie {
+    width: 250px;
+  }
+
+  body {
+    width: 100%;
+  }
+
+  .butt {
+    padding: 10px;
+  }
+
+  .noir1 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .taille1 {
+    flex-direction: column;
+  }
+
+  body {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
